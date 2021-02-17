@@ -1,0 +1,59 @@
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.dll.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\WebGrease.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.pdb
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.dll.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.dll.config
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\nunit.framework.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\System.Web.Optimization.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\WebGrease.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Antlr3.Runtime.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Newtonsoft.Json.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.dll.config
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\nunit.framework.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\nunit.framework.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\System.Web.Optimization.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Antlr3.Runtime.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\bin\Debug\Newtonsoft.Json.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.pdb
