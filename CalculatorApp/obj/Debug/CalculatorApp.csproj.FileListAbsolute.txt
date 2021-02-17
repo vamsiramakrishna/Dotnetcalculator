@@ -1,0 +1,217 @@
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe.config
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\csc.rsp
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe.config
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\csi.rsp
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.AppContext.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Console.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe.config
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\vbc.rsp
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\WebGrease.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.xml
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.xml
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.pdb
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+C:\Users\Apoorva Dixit\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\csc.rsp
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\csi.rsp
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.AppContext.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Console.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\vbc.rsp
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Web.Http.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\WebGrease.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Web.Http.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.pdb
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+C:\Users\Apoorva Dixit\Downloads\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\nunit.framework.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Net.Http.Formatting.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Http.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Http.WebHost.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\WebGrease.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\nunit.framework.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\nunit.framework.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Net.Http.Formatting.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Http.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Http.WebHost.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.pdb
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+D:\Users\vs\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\CalculatorApp.dll.config
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\CalculatorApp.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\CalculatorApp.pdb
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Antlr3.Runtime.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Newtonsoft.Json.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\nunit.framework.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Net.Http.Formatting.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Web.Http.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Web.Http.WebHost.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Web.Optimization.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\WebGrease.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Newtonsoft.Json.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\nunit.framework.pdb
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\nunit.framework.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Net.Http.Formatting.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Web.Http.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Web.Http.WebHost.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\System.Web.Optimization.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Antlr3.Runtime.pdb
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\obj\Debug\CalculatorApp.dll
+D:\vrkdotnetcalculator\dotnetcalc\CalculatorApp\obj\Debug\CalculatorApp.pdb
