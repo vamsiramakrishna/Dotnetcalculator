@@ -21,12 +21,12 @@
         <div class="form-group">
         <asp:Label ID="Label1" runat="server" Text="Number 1:"></asp:Label>
         <asp:TextBox ID="txtNum1" runat="server" Height="30px"></asp:TextBox> <br/>
-        <asp:RequiredFieldValidator ID="Num1" runat="server" ControlToValidate="txtNum1" ErrorMessage="Please enter a value" ForeColor="Red"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ID="Num1" runat="server" ControlToValidate="txtNum1" ErrorMessage="Please enter any value" ForeColor="Red"></asp:RequiredFieldValidator>
         </div>
         <div class="form-group">
         <asp:Label ID="Label2" runat="server" Text="Number 2:"></asp:Label>
         <asp:TextBox ID="txtNum2" runat="server" Height="30px"></asp:TextBox> <br/>
-        <asp:RequiredFieldValidator ID="Num2" runat="server" ControlToValidate="txtNum2" ErrorMessage="Please enter a value" ForeColor="Red"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ID="Num2" runat="server" ControlToValidate="txtNum2" ErrorMessage="Please enter any value" ForeColor="Red"></asp:RequiredFieldValidator>
         </div>
         <div class="form-group">
         <asp:Label ID="Label3" runat="server" Text="Result:"></asp:Label>
